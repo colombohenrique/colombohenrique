@@ -2,7 +2,7 @@
 
 I promise I will update this READ.ME soon!
 
-- 🌱 I’m currently learning GoLang, Javascript and React 
+- 🌱 I’m currently code with .NET Core and Angular
 
 <!--
 **colombohenrique/colombohenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
